@@ -1,6 +1,6 @@
 {
   "name": "Shell-bot",
-  "repository": "https://github.com/magneto261290/shell-bot",
+  "repository": "https://github.com/hex-313/shell-bot/tree/mine",
   "description": "A telegram shell-bot with preinstalled rclone, folderclone, ngrok, qbittorrent-nox, streamlink, youtube-dl etc. Modified by @The_Magneto",
   "addons": [],
   "buildpacks": [
